@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/WwiseAudio/InitBank.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Ring.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/MainLevel.umap",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/PlaneGameMode.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Blueprints/Plane.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Plane1.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Plane2.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Plane3.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Plane_Base.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Plane_Prop.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Ring1.uasset"
+			]
+		}
+	]
+}
