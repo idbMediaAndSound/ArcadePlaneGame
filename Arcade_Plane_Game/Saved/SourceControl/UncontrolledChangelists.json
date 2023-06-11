@@ -17,7 +17,14 @@
 				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Plane_Base.uasset",
 				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Plane_Prop.uasset",
 				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Models/Ring1.uasset",
-				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Blueprints/Ring.uasset"
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Blueprints/Ring.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Blueprints/GameUI.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Levels/Level1.umap",
+				"/Volumes/SoundBanks/Games/UE_5.1/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset",
+				"/Volumes/SoundBanks/Games/UE_5.1/Engine/Content/MapTemplates/Materials/Mat_DynamicBlue.uasset",
+				"/Volumes/SoundBanks/Games/UE_5.1/Engine/Content/MapTemplates/Materials/Mat_DynamicRed.uasset",
+				"/Volumes/SoundBanks/Games/UE_5.1/Engine/Content/MapTemplates/Materials/Mat_DynamicGreen.uasset",
+				"/Volumes/SoundBanks/Unreal Projects/ArcadePlaneGame/Arcade_Plane_Game/Content/Blueprints/Goal.uasset"
 			]
 		}
 	]
